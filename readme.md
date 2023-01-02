@@ -11,3 +11,4 @@
 - ⚡ Fun fact: Workhard and Playhard
 - 😄 Một sản phẩm còn sống còn phải sửa còn phải code... 
 - 🌱 Sản phẩm gọi là xong thì là sản phẩm đã chết, không có khái niệm code xong
+- Follow my [GITHUB](https://github.com/truongnq2k/)
